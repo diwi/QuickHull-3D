@@ -7,17 +7,18 @@ Java Quickhull 3D implementation
 
 both jar files can be found in the lib-directory.
 
-# Details
-A detailed description of the algorithm and some documentation can be found in my blog-post
+## Details
+A detailed description of the algorithm and some documentation is posted here:
 
 http://thomasdiewald.com/blog/?p=1888
 
-<img src=http://thomasdiewald.com/blog/wp-content/uploads/2013/03/diewald_quickhull_10_FIFO_01-785x785.png width=80% />
-
-
-# Iteration Modes
+## Iteration Modes (Stack Traversal)
 
 LIFO (left) vs FIFO (right) after 2000 iterations.
 
 <img src=http://thomasdiewald.com/blog/wp-content/uploads/2013/03/diewald_quickhull_2000_LIFO_00.png width=48% />
 <img src=http://thomasdiewald.com/blog/wp-content/uploads/2013/03/diewald_quickhull_2000_FIFO_00.png width=48% />
+
+## One Iteration
+
+<img src=http://thomasdiewald.com/blog/wp-content/uploads/2013/03/diewald_quickhull_10_FIFO_01-785x785.png width=80% />
