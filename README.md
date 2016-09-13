@@ -1,5 +1,11 @@
 # QuickHull-3D
-Quickhull 3D implementation
+Java Quickhull 3D implementation
+
+### Dependencies: 
+- core.jar - [Processing 1.5.1](processing.org)
+- PeasyCam.jar - [PeasyCam library, by Jonathan Feinberg](https://github.com/jdf)
+
+both jar files can be found in the lib-directory.
 
 # Details
 A detailed description of the algorithm and some documentation can be found in my blog-post
